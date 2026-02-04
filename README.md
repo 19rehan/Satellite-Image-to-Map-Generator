@@ -9,7 +9,7 @@ This project focuses on converting **satellite images** into **map-like represen
 - Preprocessing of satellite images (resizing, normalization, augmentation).  
 - Deep learning model for feature extraction and classification.  
 - Map generation from segmented satellite images.  
-- Evaluation metrics: accuracy, IoU (Intersection over Union), and visualization of predictions. 
+- Evaluation metrics: accuracy, IoU (Intersection over Union), and visualization of predictions.
 
 ---
 
