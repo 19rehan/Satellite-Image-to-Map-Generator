@@ -15,7 +15,6 @@ This project focuses on converting **satellite images** into **map-like represen
 
 
 
-
 ---
 
 ## 🛠️ Tech Stack
