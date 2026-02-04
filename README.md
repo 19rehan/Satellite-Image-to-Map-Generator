@@ -11,6 +11,7 @@ This project focuses on converting **satellite images** into **map-like represen
 - Map generation from segmented satellite images.  
 - Evaluation metrics: accuracy, IoU (Intersection over Union), and visualization of predictions.  
 
+
 ---
 
 ## 🛠️ Tech Stack
