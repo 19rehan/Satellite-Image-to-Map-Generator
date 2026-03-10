@@ -4,6 +4,7 @@
 This project focuses on converting **satellite images** into **map-like representations** using deep learning and computer vision techniques. The goal is to automatically extract meaningful features (roads, buildings, vegetation, water bodies) from raw satellite imagery and generate maps that can be used for urban planning, navigation, and geographic analysis.
 
 
+
 ---
 
 ## 🚀 Features
