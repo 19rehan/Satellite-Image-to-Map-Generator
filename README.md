@@ -34,3 +34,8 @@ This project focuses on converting **satellite images** into **map-like represen
    ```bash
    git clone https://github.com/19rehan/satellite-image-to-map-generator.git
    cd satellite-image-to-map-generator
+
+
+
+
+   
