@@ -13,7 +13,6 @@ This project focuses on converting **satellite images** into **map-like represen
 - Evaluation metrics: accuracy, IoU (Intersection over Union), and visualization of predictions.
 
 ---
-
 ## 🛠️ Tech Stack
 - **Python 3.8+**
 - **TensorFlow / Keras**
