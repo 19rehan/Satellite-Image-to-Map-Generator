@@ -25,7 +25,6 @@ This project focuses on converting **satellite images** into **map-like represen
 ## 📂 Project Structure
 
 
-
 ---
 
 ## ▶️ How to Run
