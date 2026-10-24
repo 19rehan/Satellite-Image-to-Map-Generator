@@ -6,6 +6,7 @@ This project focuses on converting **satellite images** into **map-like represen
 
 ---
 
+
 ## 🚀 Features
 - Preprocessing of satellite images (resizing, normalization, augmentation).  
 - Deep learning model for feature extraction and classification.  
